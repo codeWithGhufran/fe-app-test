@@ -9,9 +9,6 @@ Welcome to the Fetch Dog Shelter Adoption App! This is a Next.js application tha
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
